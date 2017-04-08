@@ -1,4 +1,4 @@
-def parse(x):
+def parse(p):
   return ('Hello {}'.format(x))
   
 def clean(y):
