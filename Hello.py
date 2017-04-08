@@ -1,5 +1,5 @@
 def parse(x):
   return ('Hello {}'.format(x))
   
-def clean(a):
+def clean(d):
   return 'hello {}'.format(y)
